@@ -2,5 +2,5 @@
 Simple GUI calculator.
 ## Tkinter
 **Tkinter good documentations**
-* [Tkinter doc ](https://tcl.tk)
-* [Tkinter roc ](https://tkdocs.com)
+* [Tcl.Tk ](https://tcl.tk)
+* [Tkdocs ](https://tkdocs.com)
